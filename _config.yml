@@ -21,17 +21,7 @@
 title: Virtual_Dustpan
 # email: your-email@example.com
 description: > # description of the site (multiple lines allowed)
-  OH HELLO!
-
-*checks notes*
-
-seems like we are back
-
-welcome to virtual dustpan
-a place for wacky nonsense and, occasionally, something interesting... 
-
-BLOG BEGINS 2024! 
-STAY TUNED!
+  OH HELLO! <br> *checks notes* <br> seems like we are back <br> welcome to virtual dustpan <br> a place for wacky nonsense and, occasionally, something interesting... <br> BLOG BEGINS 2024! <br> STAY TUNED!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https:/virtualdustpan.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
