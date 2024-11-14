@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Virtual_Dustpan
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  A compendium of wacky nonsense and occasionally something interesting. The blog begins in 2024! Stay tuned for more!
+# email: your-email@example.com
+description: > # description of the site (multiple lines allowed)
+  A place for wacky nonsense and occasionally something interesting... BLOG BEGINS 2024! STAY TUNED!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https:/virtualdustpan.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -48,7 +48,7 @@ theme_config:
     title_projects: Portfolio
     title_misc_list: Details
     title_blog: Blog
-    title_old_projects: Old Projects
+    #title_old_projects: Old Projects
 
 
 # Build settings
