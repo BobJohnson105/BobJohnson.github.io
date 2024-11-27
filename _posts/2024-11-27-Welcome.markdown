@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Welcome to Virtual Dustpan!"
+date:   2024-11-27 16:25:00 +0000
+categories: jekyll update
+---
+Hello all and weclome to <b>Virtual Dustpan</b>! 
+
+What is Virtual Dustpan? Well am I glad you asked! Virtual Dustpan is my own personal blog and
+portfolio site, a one-stop-shop for all things videogames, tech, film... you name it! I find there to be
+something quite fun about shouting about stuff into the void that is the internet, and so I thought what better way to do that than set up a blog?
+
+Hopefully you might stick around and explore, take a look at some of the silly little projects I am working on? (Please do they really are quite silly)
+
+Anyhow, over and out from me for now! Until next time loyal readers! (You don't know it but I have now consumed a part of your soul)
+
+Dylan.
