@@ -20,7 +20,7 @@
 
 title: Virtual_Dustpan
 # email: your-email@example.com
-description: Welcome to <b>Virtual Dustpan!</b> This is the personal blog and portfolio of the earth based human entity known as <b>Dylan Smith</b> (me!). Here you can find all sorts of stuff, from musings on videogames, technology and film to silly little projects I may or may not be working on! <br> <br> Stick around and explore!
+description: <img src="eggdog.png" alt="Eggdog in field, wistfully contemplating the nature of life as yellow petals from the meadow float on by. In the background wrecked eggdog battle frames can be seen, overtaken by nature after centuries of inactivity." align:"left" style="display:inline-block;width:250px;height:250px;"> <br>Welcome to <b>Virtual Dustpan!</b> This is the personal blog and portfolio of the earth based human entity known as <b>Dylan Smith</b> (me!). Here you can find all sorts of stuff, from musings on videogames, technology and film to silly little projects I may or may not be working on! <br> <br> Stick around and explore!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https:/virtualdustpan.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
